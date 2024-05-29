@@ -1,8 +1,12 @@
 {
-  "/page": "app/page.js",
-  "/about/page": "app/about/page.js",
+  "/_not-found": "app/_not-found.js",
+  "/blog/[id]/page": "app/blog/[id]/page.js",
   "/blog/page": "app/blog/page.js",
   "/frozen/page": "app/frozen/page.js",
-  "/blog/[id]/page": "app/blog/[id]/page.js",
+  "/services/[id]/page": "app/services/[id]/page.js",
+  "/about/page": "app/about/page.js",
+  "/page": "app/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/error/page": "app/error/page.js",
   "/services/page": "app/services/page.js"
 }

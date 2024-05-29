@@ -1,4 +1,4 @@
-// File: C:\Users\user\Desktop\international-fruit-hub-v2\src\app\frozen\page.jsx
+// File: C:\Users\user\Desktop\fruit-hub-v3\src\app\frozen\page.jsx
 import * as entry from '../../../../src/app/frozen/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
